@@ -2,13 +2,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.png">
-  <img alt="Bienvenida" src="assets/header-light.png">
+  <img alt="Bienvenida" src="assets/header-dark.png">
 </picture>
 
-
-
 <!-- Saludo -->
-# ¡Hola, soy Miguel! 👋
+<h1 align="center"> ¡Hola, soy Miguel! 👋 </h1>
+
 Analista de datos y dev en formación — me gusta la programación, la tecnología en la nube ☁️ y me encanta el arte 3D.
 
 
